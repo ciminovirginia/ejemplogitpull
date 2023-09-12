@@ -1,2 +1,2 @@
-# repositorio para practica git pull
+# repositorio para practica git pull(freecodecamp)
 practicar pull
